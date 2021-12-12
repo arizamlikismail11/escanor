@@ -8,6 +8,6 @@ dan ini untuk outputnya atau hasilnya<p>
 ![gambar 3](screenshot/ss3.png)
 
 untuk flowchartnya<p>
-![gambar 4](screenshot/flowchart)
+![gambar 4](screenshot/flowchart.jpeg)
 
 
